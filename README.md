@@ -1,2 +1,3 @@
 # DecodeLabs-Internship
-This repository is created as part of the DecodeLabs Internship. I will push all my project files and tasks here.
+## Project 1 - Number Game
+A Java-based number guessing game where the user guesses a random number.
